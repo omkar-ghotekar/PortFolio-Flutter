@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 
 
 
-![](https://github.com/omkar-ghotekar/Flutter-Projects/blob/master/mi_card_final/WhatsApp%20Image%202020-05-24%20at%2011.58.35%20PM.jpeg).
+![](https://github.com/omkar-ghotekar/PortFolio-Flutter/blob/master/Portfolio.jpeg).
 
 
 
